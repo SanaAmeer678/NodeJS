@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "productName": "Mobile",
+      "quantity": 10,
+      "active": true
+    },
+    {
+      "id": 2,
+      "productName": "Laptops",
+      "quantity": 15,
+      "active": false
+    },
+    {
+      "id": 3,
+      "productName": "iPads",
+      "quantity": 5,
+      "active": true
+    },
+
+    {
+        "id": 4,
+        "productName": "watches",
+        "quantity": 5,
+        "active": true
+    }
+]
